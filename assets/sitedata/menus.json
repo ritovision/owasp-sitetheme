@@ -2,11 +2,11 @@
 	"menus": [
 		{
 			"title": "PROJECTS",
-			"url": "https://owasp.org/projects/",
+			"url": "/projects/",
 			"items": [
 				{
 					"title": "Browse All Projects...",
-					"url": "https://owasp.org/projects/"
+					"url": "/projects/"
 				},
 				{
 					"title": "Contribute to projects...",
@@ -14,12 +14,12 @@
 				},
 				{
 					"title": "OWASP Top Ten",
-					"url": "https://owasp.org/www-project-top-ten/",
+					"url": "/www-project-top-ten/",
 					"separator": "true"
 				},
 				{
 					"title": "OWASP Application Security Verification Standard",
-					"url": "https://owasp.org/www-project-application-security-verification-standard/"
+					"url": "/www-project-application-security-verification-standard/"
 				},
 				{
 					"title": "OWASP GenAI Security Project",
@@ -35,27 +35,27 @@
 				},
 				{
 					"title": "OWASP Dependency Track",
-					"url": "https://owasp.org/www-project-dependency-track/"
+					"url": "/www-project-dependency-track/"
 				},
 				{
 					"title": "OWASP Juice Shop",
-					"url": "https://owasp.org/www-project-juice-shop/"
+					"url": "/www-project-juice-shop/"
 				},
 				{
 					"title": "OWASP Mobile Application Security",
-					"url": "https://owasp.org/mas/"
+					"url": "/mas/"
 				},
 				{
 					"title": "OWASP ModSecurity Core Rule Set",
-					"url": "https://owasp.org/www-project-modsecurity-core-rule-set/"
+					"url": "/www-project-modsecurity-core-rule-set/"
 				},
 				{
 					"title": "OWASP Software Assurance Maturity Model (SAMM)",
-					"url": "https://owasp.org/www-project-samm/"
+					"url": "/www-project-samm/"
 				},
 				{
 					"title": "OWASP Web Security Testing Guide",
-					"url": "https://owasp.org/www-project-web-security-testing-guide/"
+					"url": "/www-project-web-security-testing-guide/"
 				},
 				{
 					"title": "Start a New Project...",
@@ -64,56 +64,55 @@
 				},
 				{
 					"title": "Community Contributions",
-					"url": "https://owasp.org/www-community/",
+					"url": "/www-community/",
 					"separator": "true"
 				},
 				{
 					"title": "Google Summer of Code",
-					"url": "https://owasp.org/gsoc"
-
+					"url": "/gsoc"
 				}
 			]
 		},
 		{
 			"title": "CHAPTERS",
-			"url": "https://owasp.org/chapters/",
+			"url": "/chapters/",
 			"items": [
 				{
 					"title": "Find a Local Chapter...",
-					"url": "https://owasp.org/chapters/"
+					"url": "/chapters/"
 				},
 				{
 					"title": "Africa",
-					"url": "https://owasp.org/chapters/#Africa",
+					"url": "/chapters/#Africa",
 					"separator": "true"
 				},
 				{
 					"title": "Asia",
-					"url": "https://owasp.org/chapters/#Asia"
+					"url": "/chapters/#Asia"
 				},
 				{
 					"title": "Caribbean",
-					"url": "https://owasp.org/chapters/#TheCarribean"
+					"url": "/chapters/#TheCarribean"
 				},
 				{
 					"title": "Central America",
-					"url": "https://owasp.org/chapters/#CentralAmerica"
+					"url": "/chapters/#CentralAmerica"
 				},
 				{
 					"title": "Europe",
-					"url": "https://owasp.org/chapters/#Europe"
+					"url": "/chapters/#Europe"
 				},
 				{
 					"title": "North America",
-					"url": "https://owasp.org/chapters/#NorthAmerica"
+					"url": "/chapters/#NorthAmerica"
 				},
 				{
 					"title": "Oceania",
-					"url": "https://owasp.org/chapters/#Oceania"
+					"url": "/chapters/#Oceania"
 				},
 				{
 					"title": "South America",
-					"url": "https://owasp.org/chapters/#SouthAmerica"
+					"url": "/chapters/#SouthAmerica"
 				},
 				{
 					"title": "Start a Local Chapter...",
@@ -164,61 +163,62 @@
 				},
 				{					
 					"title": "Upcoming Chapter Events",
-					"url": "https://owasp.org/chapters/events/"
+					"url": "/chapters/events/"
 				},
 				{
 					"title": "Browse All Events...",
-					"url": "https://owasp.org/events/",
+					"url": "/events/",
 					"separator": "true"
 				}
 			]
 		},
 		{
 			"title": "ABOUT",
-			"url": "https://owasp.org/about/",
+			"url": "/about/",
 			"items": [
 				{
 					"title": "About OWASP",
-					"url": "https://owasp.org/about/"
+					"url": "/about/"
 				},
 				{
 					"title": "Awards",
-					"url": "https://owasp.org/awards/"
+					"url": "/awards/"
 				},
 				{
 					"title": "Careers",
-					"url": "https://owasp.org/careers/"
-				},{
+					"url": "/careers/"
+				},
+				{
 					"title": "Committees",
-					"url": "https://owasp.org/committees/"
+					"url": "/committees/"
 				},
 				{
 					"title": "Contact Us",
-					"url": "https://owasp.org/contact/"
+					"url": "/contact/"
 				},
 				{
 					"title": "Corporate Supporters",
-					"url": "https://owasp.org/supporters/"
+					"url": "/supporters/"
 				},
 				{
 					"title": "Donate",
-					"url": "https://owasp.org/donate/"
+					"url": "/donate/"
 				},
 				{
 					"title": "Finance",
-					"url": "https://owasp.org/finance/"
+					"url": "/finance/"
 				},
 				{
 					"title": "Global Board",
-					"url": "https://owasp.org/www-board/"
+					"url": "/www-board/"
 				},
 				{
 					"title": "Global Board EU",
-					"url": "https://owasp.org/www-board-eu/"
+					"url": "/www-board-eu/"
 				},
 				{
 					"title": "Governance",
-					"url": "https://owasp.org/governance/"
+					"url": "/governance/"
 				},
 				{
 					"title": "Membership Portal",
@@ -226,15 +226,15 @@
 				},
 				{
 					"title": "Opinions & News",
-					"url": "https://owasp.org/news/"
+					"url": "/news/"
 				},
 				{
 					"title": "Policies",
-					"url": "https://owasp.org/www-policy/"
+					"url": "/www-policy/"
 				},
 				{
 					"title": "Staff",
-					"url": "https://owasp.org/corporate/"
+					"url": "/corporate/"
 				},
 				{
 					"title": "Video",
@@ -248,12 +248,10 @@
 			"url" : "#",
 			"items": [
 				{
-				"title": "<form style='display:inline-block;' role='search' method='get' action='https://owasp.org/search'><div class='search-div'><input id='searchString' name='searchString' class='mini-search-bar' type='search' placeholder='Search OWASP.org' required='true'><button id='search-button' type='submit' class='fa fa-search'></button></div></form>",
+				"title": "<form style='display:inline-block;' role='search' method='get' action='/search'><div class='search-div'><input id='searchString' name='searchString' class='mini-search-bar' type='search' placeholder='Search OWASP.org' required='true'><button id='search-button' type='submit' class='fa fa-search'></button></div></form>",
 				"url": "#" 
 				}
 			]
 		}
 	]
 }
-
-
